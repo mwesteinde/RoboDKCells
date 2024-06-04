@@ -1,2 +1,2 @@
 # RoboDKCell
-RoboDK cell setup. Stores tool coordinate data and saved toolpaths
+RoboDK cell setup. RobotCell.rdk stores tool coordinate data and saved toolpaths
